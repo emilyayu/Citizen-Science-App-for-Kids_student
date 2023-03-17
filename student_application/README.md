@@ -1,15 +1,15 @@
 # student_application
+Mobile for the Citizen Science Web Application:
+https://helpful-compass-376223.uw.r.appspot.com/
 
-A new Flutter project.
-
-## Getting Started
+## Flutter Documentation
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
 
-Install the Flutter SDK
+## Install the Flutter SDK
 
 Install Flutter by following the steps for your OS in the link below:
 
@@ -19,18 +19,18 @@ https://docs.flutter.dev/get-started/install
 https://www.chrisjmendez.com/2021/05/12/how-to-install-flutter-on-mac-osx-using-homebrew/
 
 
-Set up VS Code to run the Flutter project
+## Set up VS Code to run the Flutter project
 
 If you don’t have it, download VS Code:
 https://code.visualstudio.com/download
 
-Use the link below to Install & test Flutter:
+Use the link below to install & test Flutter:
 https://docs.flutter.dev/get-started/editor
 
 - Install Flutter extension
 - Run flutter doctor
 
-Download the project from Github Repo
+## Download the project from Github Repo
 
 Link to repo:
 https://github.com/emilyayu/Citizen-Science-App-for-Kids_student
@@ -41,13 +41,13 @@ Clone the Project from GitHub:
 - Run one of the following commands:
 
 HTTPS:
-git clone https://github.com/emilyayu/Citizen-Science-App-for-Kids_student.git
+`git clone https://github.com/emilyayu/Citizen-Science-App-for-Kids_student.git`
 
 SSH:
-git clone git@github.com:emilyayu/Citizen-Science-App-for-Kids_student.git
+`git clone git@github.com:emilyayu/Citizen-Science-App-for-Kids_student.git`
 
 
-Mac OS: Running on Xcode Simulator
+## Mac OS: Running on Xcode Simulator
 
 If you don’t have it download Xcode:
 https://apps.apple.com/us/app/xcode/id497799835?mt=12
@@ -57,5 +57,6 @@ https://apps.apple.com/us/app/xcode/id497799835?mt=12
 - Navigate to the student_application folder in the terminal
 - Run the following commands:
 
-open -a simulator
-flutter run
+`open -a simulator`
+
+`flutter run`
